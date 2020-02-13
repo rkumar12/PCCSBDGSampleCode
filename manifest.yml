@@ -1,0 +1,8 @@
+---
+applications:
+- name: sample-app
+  path: target/gs-accessing-data-gemfire-0.1.0.jar
+  services:
+  - wan01
+
+
